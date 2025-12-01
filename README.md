@@ -1,4 +1,5 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6a964da-f73f-431c-a95b-3d4477268790/ddhljyu-7ae3cfb8-17aa-48d1-b15b-d8717fb12903.png/v1/fill/w_1600,h_900,q_80,strp/red_dead_redemption_2___wallpaper_v_2_by_3demerzel_ddhljyu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvZDZhOTY0ZGEtZjczZi00MzFjLWE5NWItM2Q0NDc3MjY4NzkwXC9kZGhsanl1LTdhZTNjZmI4LTE3YWEtNDhkMS1iMTViLWQ4NzE3ZmIxMjkwMy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KvQRIwLsMo5itgm0E24LBjF7-qoRFGVrRWYjD6XRwP4)
+[![MasterHead](![one-piece-icegif-28](https://github.com/user-attachments/assets/9ee379ae-9cfe-44e5-bdbd-32a215b0f036)
+)
 <h3 align="center">Hello, I am a computer engineering student, I am still in the learning phase</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siskoking" alt="siskoking" /></a> </p>
